@@ -1,0 +1,51 @@
+body {
+    background-color: bisque;
+
+}
+
+.Style2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkslateblue;
+    font-size: 2rem;
+}
+
+.Style3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: green;
+    font-size: 1rem;
+}
+
+.Style4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    font-size: 2rem;
+    border: 2px solid blue;
+    width: 50%;
+
+
+}
+
+
+
+.Style5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: orangered;
+    font-size: 2rem;
+    text-decoration: underline;
+
+}
+
+.Style6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: plum;
+    font-size: 2rem;
+    text-decoration: line-through;
+
+}
+
+.Style7 {
+    animation-name: fadeIn;
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-timing-function: ease;
+  }
